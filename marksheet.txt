@@ -28,3 +28,14 @@ elif percentage >= 40 < 50:
     print("Grade: D")
 else:
     print("Grade F")
+    
+    
+    Result/output
+
+**********************Marksheet**************************
+Enter the number of first subject :67
+Enter the number of second subject :90
+Enter the number of third subject :78
+Enter the number of fourth subject :69
+Enter the number of fifth subject :89
+Grade : B
